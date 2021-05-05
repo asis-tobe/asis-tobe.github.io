@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 198 198" xmlns="http://www.w3.org/2000/svg">
+  <g id="Rockset-logo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="RsLogo_[Rockset]-Color-Copy" fill-rule="nonzero">
+      <path d="M 138.55 81.75 C 138.55 63.75 126.23 50.59 106.09 50.59 L 60.87 50.59 L 60.87 147.26 L 81.45 147.26 L 81.45 112.62 L 96.52 112.62 L 115.52 147.26 L 139.14 147.26 L 117.4 110.45 C 127.83 108 138.55 98.86 138.55 81.75 Z" id="Path" fill="#660099"/>
+      <polygon id="Path" fill="#63C0DD" points="60 20 60 0 0 0 0 10 0 20 0 178 0 188 0 198 60 198 60 178 20 178 20 20"/>
+      <polygon id="Path" fill="#63C0DD" points="138.099 20 138.099 0 198.099 0 198.099 10 198.099 20 198.099 178 198.099 188 198.099 198 138.099 198 138.099 178 178.099 178 178.099 20"/>
+    </g>
+  </g>
+</svg>
