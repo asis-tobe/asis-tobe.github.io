@@ -6,4 +6,7 @@ It's also a great tool to set up a POC for success and then play out the value t
 🛠️**Tech:** It was created using a viz library from Ant Design called "X6" [antvix/X6](https://github.com/antvis/X6). All React and TS.  
 ⚡**Fun Fact:** There are no databases or state management; it's all URL encoded and then shortened.
 
+🕹️**Demo Project:** [https://tinyurl.com/3ck5uft3](https://tinyurl.com/3ck5uft3) _<-- Recommend starting here_  
+🌎**Web Link:** [AsIs-ToBe Configurator Home](https://asis-tobe.github.io/)
+
 ![alt text](https://github.com/asis-tobe/asis-tobe.github.io/blob/main/asistobe_instructions.png?raw=true)
